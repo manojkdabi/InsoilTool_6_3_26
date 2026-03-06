@@ -52,7 +52,6 @@ function doGet(e) {
   return HtmlService.createHtmlOutputFromFile('InsoilTool')
     .setTitle(`Insoil Tool ${APP_VERSION} (${BUILD_TIMESTAMP})`)
     .setXFrameOptionsMode(HtmlService.XFrameOptionsMode.ALLOWALL)
-    .setSandboxMode(HtmlService.SandboxMode.IFRAME)
     .addMetaTag('viewport', 'width=device-width, initial-scale=1');
 }
 

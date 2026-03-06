@@ -35,13 +35,6 @@
   <script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin="anonymous"></script>
 
     <script>
-    window.rgbData = Array.isArray(window.rgbData) ? window.rgbData : [];
-    window.qcData = Array.isArray(window.qcData) ? window.qcData : [];
-    window.currentUserRole = window.currentUserRole || null;
-    window.currentUser = window.currentUser || null;
-  </script>
-
-  <script>
     (function () {
       if (window.nmSetDebugEnabled) return;
       const expose = (fn) => {
