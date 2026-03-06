@@ -28421,7 +28421,7 @@ function getStvDirectReportTemplate() {
   nmLogDebug('STV Direct get report template');
   return `
   <div class="stv-direct-report">
-    <sty\le>
+    <style>
       :root{
         --bg: #f6f7fb;
         --card: #ffffff;
@@ -28909,7 +28909,7 @@ function getStvDirectReportTemplate() {
 
 
 
-    <\/style>
+    </style>
 
     <div class="page">
       <div class="hero" id="hero">
