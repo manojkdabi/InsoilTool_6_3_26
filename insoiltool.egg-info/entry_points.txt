@@ -1,0 +1,2 @@
+[console_scripts]
+insoiltool = insoiltool.cli:main

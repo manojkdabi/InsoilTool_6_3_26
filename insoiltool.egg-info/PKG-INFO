@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: insoiltool
+Version: 6.3.26
+Summary: Soil analysis and classification tool (USCS, AASHTO, Atterberg limits, grain size, bearing capacity)
+License: MIT
+Keywords: geotechnical,soil,classification,bearing-capacity,atterberg
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Topic :: Scientific/Engineering
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+# InsoilTool_6_3_26
+InsoilTool_6_3_26
